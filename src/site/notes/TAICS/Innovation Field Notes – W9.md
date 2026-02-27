@@ -8,7 +8,7 @@
 
 # Innovation Field Notes – W9
 ## Key learnings
-This week, we've recalibrated ourselves back to the end of the previous course [[0. 🏕 Basecamp/MOC – DA620E-TS004 Innovation and entrepreneurship in a digital society\|MOC – DA620E-TS004 Innovation and entrepreneurship in a digital society]], where we were back then, and how we're going to more forward. We had the Snowball workshop where we collected each others perspectives and synthesized them into one unified view. 
+This week, we've recalibrated ourselves back to the end of the previous course [[0. 🏕 Basecamp/MOC – DA620E-TS004 Innovation and entrepreneurship in a digital society\|MOC – DA620E-TS004 Innovation and entrepreneurship in a digital society]], where we were back then, and how we're going to move forward. We had the Snowball workshop where we collected each other's perspectives and synthesized them into one unified view. 
 
 > [!note] What I wrote in "Assignment 9:1 Where were we?" 
 Key insights:
@@ -21,7 +21,7 @@ Key insights:
 > - Perspectives on leadership
 > - How can we measure success (especially in wicked problems)?
 > 
-> Uncertaintes:
+> Uncertainties:
 > - What is truly innovative?
 > - Clearer grasp of status quo
 > - Are we future-ready?
@@ -55,7 +55,7 @@ Somehow, I also found it freeing to talk about What Lies Ahead. This failure tha
 I want to circle back to the uncertainties I wrote about in the beginning of the week as they are still key to me.
 
 **I believe we need a clearer grasp of the status quo.**
-Early on in the previous course, a change agent was defined as “someone who changes the status quo and drives sustainable transformation that creates value and positive impact for people, organizations and society”. One thing I’m lacking here is a greater discussion on what this status quo actually looks like. So much is happening around us, just within the technological development alone, and we need to keep up with that if we want to be relevant in it. In our Emerging Tech course, we touched on how robotics and AI is used in military and war. This is a great example of an area that I've deliberately chosen to avoid looking into, because it's too overwhelming. But we NEED to look into these things – because this IS what's happening around us, right now. We need to be aware of that, and we need to discuss how to handle it to be able to avoid a collective feeling of paralysis. 
+Early on in the previous course, a change agent was defined as “someone who changes the status quo and drives sustainable transformation that creates value and positive impact for people, organizations and society”. One thing I’m lacking here is a greater discussion on what this status quo actually looks like. So much is happening around us, just within the technological development alone, and we need to keep up with that if we want to be relevant in it. In our Emerging Tech course, we touched on how robotics and AI is used in military and war. This is a great example of an area that I've deliberately chosen to avoid looking into, because it's too overwhelming. But we NEED to look into these things – because this IS what's happening around us, right now. We need to be aware of that, and we need to discuss how to handle it, because it highlights how tech development directly shapes the context in which innovation happens.
 
 **That leads to the question... are we future-ready?**
 Do we have the tools, frameworks, skills and knowledge to understand, navigate and responsibly transform the very complex problems we are facing? This isn’t just a question for this programme but in a broader sense too. How can we be sure that we’re well equipped when everything is unpredictable and constantly changing? How do we handle resistance to change when it is constantly happening? And most importantly, are we asking the hard questions and facing the uncomfortable truths needed to ensure a viable way forward?
