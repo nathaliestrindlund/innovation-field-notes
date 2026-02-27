@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/taics/moc-innovation-field-notes/","tags":["gardenEntry"]}
 ---
 
+<div class="banner-container">
+  <img src="src/site/assets/dwarf-purple.jpg">
+  <div class="banner-text">
+    INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND
+  </div>
+</div>
 
 ![banner-dwarf-purple.png](/img/user/Files/banner-dwarf-purple.png)
 | File                                                                  | date              |
