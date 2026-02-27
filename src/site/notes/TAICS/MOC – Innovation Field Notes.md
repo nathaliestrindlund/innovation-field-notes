@@ -3,12 +3,12 @@
 ---
 
 <style>
-div.markdown-preview-view a {
+a {
   color: #9a3539 !important;
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
 
-div.markdown-preview-view a:hover {
+a:hover {
   color: #9a3539 !important;
 }
 </style>
