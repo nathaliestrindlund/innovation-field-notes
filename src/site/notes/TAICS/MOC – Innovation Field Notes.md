@@ -3,7 +3,7 @@
 ---
 
 <div class="banner-container">
-  <img src="src/site/assets/dwarf-purple.jpg">
+  <img src="dwarf-purple.jpg">
   <div class="banner-text">
     INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND
   </div>
