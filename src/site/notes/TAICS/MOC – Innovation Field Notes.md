@@ -12,6 +12,8 @@
   </div>
 </div>
 
+
+![dwarf-purple.jpg](/img/user/Files/dwarf-purple.jpg)
 | File                                                                  | date              |
 | --------------------------------------------------------------------- | ----------------- |
 | [[TAICS/Innovation Field Notes – W9\|Innovation Field Notes – W9]] | February 27, 2026 |
