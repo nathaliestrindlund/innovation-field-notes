@@ -9,6 +9,7 @@
     INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND
   </div>
 </div>
+
 | File                                                                  | date              |
 | --------------------------------------------------------------------- | ----------------- |
 | [[TAICS/Innovation Field Notes – W9\|Innovation Field Notes – W9]] | February 27, 2026 |
