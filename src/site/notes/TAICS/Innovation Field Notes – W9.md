@@ -25,16 +25,6 @@
 
 
 
-___
-# Sources
-| File |
-| ---- |
+---
 
-{ .block-language-dataview}
-
-# Used in
-
-{ .block-language-dataview}
-
-**Footnotes:**
-
+Innovation Field Notes by Nathalie Strindlund
