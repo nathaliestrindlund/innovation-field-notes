@@ -3,24 +3,7 @@
 ---
 
 
-<div style="position:relative; left:50%; right:50%; margin-left:-50vw; margin-right:-50vw; width:100vw; height:300px; overflow:hidden;">
-  ![dwarf-purple.jpg](/img/user/Files/dwarf-purple.jpg)
-  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white; text-align:center; font-size:2em; font-weight:bold;">
-    INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND
-  </div>
-</div>
-
-
-<div style="position:relative; left:50%; right:50%; margin-left:-50vw; margin-right:-50vw; width:100vw; height:300px; overflow:hidden;">
-  <img src="src/site/assets/dwarf-purple.jpg"
-       style="position:relative; top:-400px; width:100%; height:auto;">
-  <div class="title" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white; text-align:center; font-size:2em; font-weight:bold;">
-    INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND
-  </div>
-</div>
-
-
-![dwarf-purple.jpg](/img/user/Files/dwarf-purple.jpg)
+![banner-dwarf-purple.png](/img/user/Files/banner-dwarf-purple.png)
 | File                                                                  | date              |
 | --------------------------------------------------------------------- | ----------------- |
 | [[TAICS/Innovation Field Notes – W9\|Innovation Field Notes – W9]] | February 27, 2026 |
