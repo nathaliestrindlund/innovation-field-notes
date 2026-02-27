@@ -31,16 +31,16 @@ Key insights:
 > - Mind-capability calibration
 > - Increasing resilience
 
-We read a long text that refreshed our memory about main points to remember about innovation and change work, such as 
+We refreshed our memory about main points to remember about innovation and change work, such as 
 - The complexity we're operating in. 
 - That innovation is something that's desirable, feasible, viable and credible. 
 - The importance of aligning needs, product and market and that coherence is key for innovation to be successful.
 - Assumptions are unavoidable – but we need to validate, validate, validate!
-Following this, we had an interesting seminar about our top learnings, uncertainties and design implications right now.  
+Following this, we had an interesting seminar about our top learnings, uncertainties and design implications right now. We had two guest lectures about Patents (which is perhaps more closely related to an inventor's work than an innovator's) and Business Model Canvas. We ended the week by putting ourselves out there and presenting a failure. I talked about What Lies Ahead which exemplified pretty much all of the traps we've learned to avoid. 
 
-We had two guest lectures about Patents (which is perhaps more closely related to an inventor's work than an innovator's) and Business Model Canvas. 
+Something that became clearer to me this week is the difference between understanding innovation conceptually and putting it into practise. I've been comfortable discussing innovation on a higher level through complexity, transformation and change agents, but not as comfortable breaking it down to testable components. The Business Model Canvas is one example that provides such structure.
 
-We ended the week by putting ourselves out there and presenting a failure. I talked about What Lies Ahead which exemplified pretty much all of the traps we've learned to avoid. 
+We've really seen that validation, alignment and coherence are iterative processes that help us move away from the understanding of innovation as linear but rather a continuous process that requires perseverance and grit.
 
 ## Personal reflections
 I really enjoyed this first week. I think it was the perfect opening to pick up on where we left off. It was interesting to me that even though we had different areas of interest from the previous course, the collective attitude was "we understand the theory – now how do we put this into practise?" I feel very good about getting the chance to come back to these learnings and uncertainties and fill in the blanks in this course. It feels like a well thought out next step. 
@@ -74,15 +74,17 @@ Speaking of capabilities and limiting beliefs, I'll continue working on normaliz
 Finally, I want to reiterate gut feeling. I don't think we give ourselves and others enough credit for following gut feeling, especially in business. We know that people lie and don't always say what they actually mean. From here on I'll try to be extra attentive to people's reactions as opposed to their words and see how much I can intuitively pick up on that might point to authenticity or misalignment. 
 
 ## Methods & tools
-BMC is a practical tool I can use to deal with the complexity and interrelational nature of innovation. I believe tools like these are very useful to me since I can easily get caught up in inquisitive loops and existential rabbit holes in my mind. These might be good ways to ground me. We saw in the lecture/workshop that BMC can be a very useful tool to prototype business, for example. It's not about checking boxes, but about starting to put things out there to experiment with how they affect each other. 
+BMC is a practical tool I can use to deal with the complexity and interrelational nature of innovation. I believe tools like these are very useful to me since I can easily get caught up in inquisitive loops and existential rabbit holes in my mind. These might be good ways to ground me in something concrete rather than philosophical. 
+
+A common mistake is to treat BMC as a way to check boxes. We saw in the lecture/workshop that it can be a very useful tool to prototype business, for example. When starting to put things out there to experiment with how they affect each other. But I can also see a risk with oversimplifying the complex reality. In the end, it needs to be continuously tested and validated against reality to work. So, it might be useful in early-stage prototyping when visualization is beneficial of fluid ideas. Maybe not as useful when dealing with systemic or societal problems that might not translate so well into business logic.
 
 ## Resources
-
-**Simon Sinek – Leaders Eat Last**
+**Simon Sinek – Leaders Eat Last** (book)
 https://simonsinek.com/books/leaders-eat-last/
 I believe this book covers a type of leadership that resonates well with me. That it's essentially about making people feel safe. This book also highlights the importance of leaders understanding the true purpose of their organization and implementing that into how they care for their people. 
 
-
+**Eric Ries – The Lean Startup** (book)
+A direct connection to validation and experimentation, assumptions and coherence. It also talks about the mindset shift from planning to testing which feels very relevant to where I'm curretly at. 
 
 ---
 
