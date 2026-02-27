@@ -2,8 +2,31 @@
 {"dg-publish":true,"permalink":"/taics/moc-innovation-field-notes/","tags":["gardenEntry"]}
 ---
 
+<style>
+div.markdown-preview-view a {
+  color: #9a3539 !important;
+  text-decoration: underline;
+}
 
-<div class="title" style="color:white" >INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND</div> 
+div.markdown-preview-view a:hover {
+  color: #9a3539 !important;
+}
+</style>
+
+
+<div style="position:relative; left:50%; right:50%; margin-left:-50vw; margin-right:-50vw; width:100vw; height:300px; overflow:hidden;">
+  <img src="Files/dwarf-img.png" 
+       style="position:relative; top:-400px; width:100%; height:auto;">
+  <div class="title" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white; text-align:center; font-size:2em; font-weight:bold;">
+    INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND
+  </div>
+</div>
+
+
+
+
+
+
 
 
 | File                                                                  | date              |
@@ -11,4 +34,8 @@
 | [[TAICS/Innovation Field Notes – W9\|Innovation Field Notes – W9]] | February 27, 2026 |
 
 { .block-language-dataview}
+
+
+
+
 
