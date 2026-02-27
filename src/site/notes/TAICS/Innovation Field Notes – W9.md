@@ -74,13 +74,15 @@ Speaking of capabilities and limiting beliefs, I'll continue working on normaliz
 Finally, I want to reiterate gut feeling. I don't think we give ourselves and others enough credit for following gut feeling, especially in business. We know that people lie and don't always say what they actually mean. From here on I'll try to be extra attentive to people's reactions as opposed to their words and see how much I can intuitively pick up on that might point to authenticity or misalignment. 
 
 ## Methods & tools
-BMC is a practical tool I can use to deal with the complexity and interrelational nature of innovation. I believe tools like these are very useful to me since I can easily get caught up in inquisitive loops and existential rabbit holes in my mind. These might be good ways to ground me. We saw in the BMC lecture/workshop that BMC can be a very useful tool to prototype business, for example. It's not about checking boxes, but about starting to put things out there to experiment with how they affect each other. 
+BMC is a practical tool I can use to deal with the complexity and interrelational nature of innovation. I believe tools like these are very useful to me since I can easily get caught up in inquisitive loops and existential rabbit holes in my mind. These might be good ways to ground me. We saw in the lecture/workshop that BMC can be a very useful tool to prototype business, for example. It's not about checking boxes, but about starting to put things out there to experiment with how they affect each other. 
 
 ## Resources
 
 **Simon Sinek – Leaders Eat Last**
 https://simonsinek.com/books/leaders-eat-last/
 I believe this book covers a type of leadership that resonates well with me. That it's essentially about making people feel safe. This book also highlights the importance of leaders understanding the true purpose of their organization and implementing that into how they care for their people. 
+
+
 
 ---
 
