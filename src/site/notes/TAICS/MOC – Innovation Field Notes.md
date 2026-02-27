@@ -10,6 +10,13 @@
   </div>
 </div>
 
+<div class="banner-innovation-field-notes">
+![banner-dwarf-purple-bg.png](/img/user/Files/banner-dwarf-purple-bg.png)
+<div class="banner-text">
+INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND
+</div>
+</div>
+
 | File                                                                  | date              |
 | --------------------------------------------------------------------- | ----------------- |
 | [[TAICS/Innovation Field Notes – W9\|Innovation Field Notes – W9]] | February 27, 2026 |
