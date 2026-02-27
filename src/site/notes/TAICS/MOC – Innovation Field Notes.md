@@ -3,7 +3,7 @@
 ---
 
 
-![banner-dwarf-purple.png](/img/user/Files/banner-dwarf-purple.png)
+![dwarf-purple-headline1.png](/img/user/Files/dwarf-purple-headline1.png)
 | File                                                                  | date              |
 | --------------------------------------------------------------------- | ----------------- |
 | [[TAICS/Innovation Field Notes – W9\|Innovation Field Notes – W9]] | February 27, 2026 |
