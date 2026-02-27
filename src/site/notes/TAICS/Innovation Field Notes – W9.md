@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/taics/innovation-field-notes-w9/"}
 ---
 
-___
-Innovation Field Notes – W
+
 
 [[TAICS/MOC – Innovation Field Notes\|←  Go back to Overview]]
 

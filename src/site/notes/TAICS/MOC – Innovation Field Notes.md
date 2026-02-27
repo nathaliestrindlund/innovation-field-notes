@@ -2,16 +2,6 @@
 {"dg-publish":true,"permalink":"/taics/moc-innovation-field-notes/","tags":["gardenEntry"]}
 ---
 
-<style>
-a {
-  color: #9a3539 !important;
-  text-decoration: underline !important;
-}
-
-a:hover {
-  color: #9a3539 !important;
-}
-</style>
 
 
 <div style="position:relative; left:50%; right:50%; margin-left:-50vw; margin-right:-50vw; width:100vw; height:300px; overflow:hidden;">
@@ -21,13 +11,6 @@ a:hover {
     INNOVATION FIELD NOTES <br>BY NATHALIE STRINDLUND
   </div>
 </div>
-
-
-
-
-
-
-
 
 | File                                                                  | date              |
 | --------------------------------------------------------------------- | ----------------- |
