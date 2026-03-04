@@ -8,6 +8,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | [[TAICS/10 – Innovation Field Notes – Problem Discovery & Framing\|10 – Innovation Field Notes – Problem Discovery & Framing]]             | March 06, 2026    |
 | [[TAICS/09 – Innovation Field Notes – Orientation and Setting the Stage\|09 – Innovation Field Notes – Orientation and Setting the Stage]] | February 27, 2026 |
+| [[TAICS/00 – (Link to web)\|00 – (Link to web)]]                                                                                           | February 27, 2026 |
 | [[TAICS/00 – (Instructions for the Innovation Field Notes)\|00 – (Instructions for the Innovation Field Notes)]]                           | February 27, 2026 |
 
 { .block-language-dataview}
