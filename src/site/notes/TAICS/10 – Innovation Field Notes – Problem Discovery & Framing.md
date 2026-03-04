@@ -45,7 +45,7 @@ All of these tools help us clarify underlying relationships and impact within ou
 This book addresses the complex political landscape of our time. It serves as a guide to navigate our current time in which answers are constantly demanded, yet simple solutions are increasingly difficult to provide. This is relevant to me because we've seen that most issues we tackle exist within a political landscape. I believe deepening my knowledge about this strengthens my systems thinking, future-oriented perspective and may increase the accuracy of my predictions. 
 
 **Making Sense – Sam Harris** (book)
-A collection from Sam's podcast on intellectual conversations together with for example Nick Bostrom, Max Tegmark, Daniel Kahneman, Timothy Snyder and Anil Seth. Some of these names have had a big influence on my own thinking within topics like AI, ethics, physics and philosophy. This book allows clearer thinking within areas that are well aligned with responsible action-taking towards a sustainable future where organic life merges with the digital. 
+A collection from Sam's podcast on intellectual conversations together with for example Nick Bostrom, Max Tegmark, Daniel Kahneman, Timothy Snyder and Anil Seth. Some of these names have had a big influence on my own thinking within topics like AI, ethics, physics and philosophy. This book allows clearer thinking around the complex issues in our time. It's well aligned with responsible action-taking towards a sustainable future where organic life merges with the digital. 
 
 **Problem Discovery Framework** (Notion tool)
 https://www.notion.com/templates/problem-discovery-framework?srsltid=AfmBOoqtLVXf-gkexk1iqZDG3wI9gxlZG7rD2N3tklSUS80_WcoBMUR8 
