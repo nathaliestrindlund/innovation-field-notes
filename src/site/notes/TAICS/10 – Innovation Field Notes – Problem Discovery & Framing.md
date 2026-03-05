@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/taics/10-innovation-field-notes-problem-discovery-and-framing/"}
 ---
 
-___
 
 
 [[TAICS/MOC – Innovation Field Notes\|←  Go back to Overview]]
