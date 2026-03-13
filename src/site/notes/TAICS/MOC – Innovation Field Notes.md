@@ -6,7 +6,7 @@
 
 | File                                                                                                                                          | date              |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[TAICS/11 – Innovation Field Notes – Problem validation\|11 – Innovation Field Notes – Problem validation]]                               | March 13, 2026    |
+| [[TAICS/11 – Innovation Field Notes – Problem Validation\|11 – Innovation Field Notes – Problem Validation]]                               | March 13, 2026    |
 | [[TAICS/10 – Innovation Field Notes – Problem Discovery & Framing\|10 – Innovation Field Notes – Problem Discovery & Framing]]             | March 06, 2026    |
 | [[TAICS/09 – Innovation Field Notes – Orientation and Setting the Stage\|09 – Innovation Field Notes – Orientation and Setting the Stage]] | February 27, 2026 |
 | [[TAICS/00 – (Link to web)\|00 – (Link to web)]]                                                                                           | February 27, 2026 |
