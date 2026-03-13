@@ -6,7 +6,7 @@
 
 [[TAICS/MOC – Innovation Field Notes\|←  Go back to Overview]]
 
-# Innovation Field Notes – W9
+# W9 Innovation Field Notes – Orientation & Setting the Stage
 ## Key learnings
 This week, we've recalibrated ourselves back to the end of the previous course [[0. 🏕 Basecamp/MOC – DA620E-TS004 Innovation and entrepreneurship in a digital society\|MOC – DA620E-TS004 Innovation and entrepreneurship in a digital society]], where we were back then, and how we're going to move forward. We had the Snowball workshop where we collected each other's perspectives and synthesized them into one unified view. 
 
