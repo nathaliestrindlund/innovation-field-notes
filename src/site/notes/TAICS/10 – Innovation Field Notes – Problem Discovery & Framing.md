@@ -6,7 +6,7 @@
 
 [[TAICS/MOC – Innovation Field Notes\|←  Go back to Overview]]
 
-# Innovation Field Notes – W10
+# W10 Innovation Field Notes – Problem Discovery & Framing
 
 ## Key learnings
 This week, we've looked into the art of problem discovery and formulation. I say art because it's not as simple as it may seem. A strong problem formulation is key in the innovation process. It's a way to clarify the complexity in which we work, and provides us with a starting point to test and validate our assumptions. A strong problem formulation is actionable.
