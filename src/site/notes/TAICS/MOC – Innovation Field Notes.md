@@ -6,6 +6,7 @@
 
 | File                                                                                                                                          | date              |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[TAICS/12 – Innovation Field Notes – Value Proposition\|12 – Innovation Field Notes – Value Proposition]]                                 | \-                |
 | [[TAICS/11 – Innovation Field Notes – Problem Validation\|11 – Innovation Field Notes – Problem Validation]]                               | March 13, 2026    |
 | [[TAICS/10 – Innovation Field Notes – Problem Discovery & Framing\|10 – Innovation Field Notes – Problem Discovery & Framing]]             | March 06, 2026    |
 | [[TAICS/09 – Innovation Field Notes – Orientation and Setting the Stage\|09 – Innovation Field Notes – Orientation and Setting the Stage]] | February 27, 2026 |
