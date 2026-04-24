@@ -35,7 +35,18 @@ I also want to become better at knowing and articulating my own strengths. I'm r
 **Team chart:** this is a good tool to map out the competences we collectively have in our team and how they could work together. It can help guide us in assigning roles and responsibilities within the team, as well as where we are lacking and need to look for external resources or expert help. However, it lacks many dimensions that makes a good team. It says nothing about social dynamics or communication styles, which are examples of things that can make or break good teamwork. 
 
 ## Resources
+**Creating Effective Teams: The Detailed Curation – Hyper Island (article)**
+https://hyperisland.com/en/blog/thought-leadership/creating-effective-teams-the-detailed-curation 
+This article highlights that the performance of a team isn't fully predictable or controllable either. Just as the innovation we're working on, the team also needs to be continuously developed and maintained to continue being effective. 
 
+**The Five Dysfunctions of a Team** (model)
+![](https://omtglobal.com/wp-content/uploads/2021/06/5-Dysfunctions-of-a-Team-1-1.png)
+*[Img source](https://omtglobal.com/wp-content/uploads/2021/06/5-Dysfunctions-of-a-Team-1-1.png).*
+This model explains what building blocks that determine a high performance vs a dysfunctional team: lack of trust, fear of conflict, lack of commitment, avoidance of accountability and inattention to results. This complements my idea that a good team depends not only on the skills but also how the members interact and build trust in each other over time.
+
+**How to Build Trust in Your Team – Richard McLean (article)**
+https://mcleanonline.medium.com/how-to-build-trust-in-your-team-385a386e37f6
+Here, the trust factor is strengthened with the importance of reliability – i.e. doing what you say – and vulnerability – being transparent and honest with each other. Touches on the psychological safety aspect mentioned in the Leaders Eat Last book. And again, reinforces the time dimension in saying that trust builds up over time.
 
 
 ___
