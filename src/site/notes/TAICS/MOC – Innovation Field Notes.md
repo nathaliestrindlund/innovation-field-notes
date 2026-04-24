@@ -6,6 +6,7 @@
 
 | File                                                                                                                                          | date              |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[TAICS/17 – Innovation Field Notes – The Team\|17 – Innovation Field Notes – The Team]]                                                   | April 24, 2026    |
 | [[TAICS/16 – Innovation Field Notes – The Business\|16 – Innovation Field Notes – The Business]]                                           | April 17, 2026    |
 | [[TAICS/15 – Innovation Field Notes – The Product\|15 – Innovation Field Notes – The Product]]                                             | April 10, 2026    |
 | [[TAICS/14 – Innovation Field Notes – Conceptualization\|14 – Innovation Field Notes – Conceptualization]]                                 | April 03, 2026    |

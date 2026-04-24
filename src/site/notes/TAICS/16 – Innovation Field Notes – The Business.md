@@ -3,7 +3,7 @@
 ---
 
 
-XX – Innovation Field Notes – 
+
 
 [[TAICS/MOC – Innovation Field Notes\|←  Go back to Overview]]
 
@@ -35,7 +35,7 @@ I will work on KISS (keeping it simple, stupid). I have never been very good at 
 I will also work on my ability to communicate priorities better with my team mates, especially in time-pressured situations. We first need to be aligned internally to be able to communicate it coherently externally. This misaligned was quite obvious to me during our presentation, as it showed that our understanding of different parts of our project was actually different amongst the group members, even if I thought we had a shared understanding. I was wrong :)
 
 ## Methods & tools
-
+**Business Canvas** (Excel sheet): this is a good tool to translate a concept into a financial reality by outlining all the incoming and outgoing costs. This proved to be very helpful to get a better understanding of, and being able to assess, whether our idea is actually sustainable over time. It can highlight specific points in our chain that would break in the current business model, and where we have wiggle room. It exposes our assumptions and gaps in our logic, and clearly shows how a small tweak can have a big effect on other aspects within the model. At the same time, this business canvas is highly uncertain and based on our best guess/estimate rather than validated data. We could have been way off in our estimate. So in early stages, we need to take it with a grain of salt, and iterate it over time as we gather real, validated data.
 
 ## Resources
 [[External lecture – The Green Project Lecture – Sustainability & Materials\|External lecture – The Green Project Lecture – Sustainability & Materials]] Why it's relevant: because every choice we make affects the sustainability of our company. It is an important part of building a sustainable business. Being aware of the ACTUAL effects of just choosing a material. It has not only economical but also social and environmental effects. 
