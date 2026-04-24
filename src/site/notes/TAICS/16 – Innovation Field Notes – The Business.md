@@ -51,7 +51,6 @@ I will also work on my ability to communicate priorities better with my team mat
 [[TAICS/(Kokotajlo et al., 2025) AI 2027\|(Kokotajlo et al., 2025) AI 2027]] (AI report. Full version [here](https://ai-2027.com/)). This is the most substantial future projection I've seen on the near future with AI. It bridges the gap I consider us having in building our contextual awareness of today. Not only does it raise the important questions I'm asking, but also explain the potential effects, impact and risks that we may see in the upcoming years.
 
 [The role of artificial intelligence in achieving the Sustainable Development Goals ](https://www.nature.com/articles/s41467-019-14108-y)(Vinuesa et al., 2020).  (Academic paper). This paper brings great insight in how AI can impact sustainability goals. It can help guide my business mindset with what types of problems or opportunities that AI can impact, and how.
-![[TAICS/Untitled.base]]
 
 ___
 Innovation Field Notes by Nathalie Strindlund
